@@ -1,4 +1,4 @@
-![yu fujioka's github stats](https://github-readme-stats.vercel.app/api?username=fujiokayu&count_private=true&show_icons=true)
+![yu fujioka's github stats](https://github-readme-stats.vercel.app/api?username=fujiokayu&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=fujiokayu&layout=compact)
 <!--
 **fujiokayu/fujiokayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
