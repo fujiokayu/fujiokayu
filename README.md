@@ -1,8 +1,7 @@
 ![yu fujioka's github stats](https://github-readme-stats.vercel.app/api?username=fujiokayu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=fujiokayu&layout=compact)
-
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/yuuhu04/posts.svg)](http://qiita.com/yuuhu04)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yuuhu04/contributions.svg)](http://qiita.com/yuuhu04)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=fujiokayu&layout=compact)
                 
 <!--
 **fujiokayu/fujiokayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
