@@ -1,5 +1,6 @@
-![yu fujioka's github stats](https://github-readme-stats.vercel.app/api?username=fujiokayu&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=fujiokayu&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fujiokayu&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fujiokayu&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fujiokayu&theme=default)
                 
 <!--
 **fujiokayu/fujiokayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
